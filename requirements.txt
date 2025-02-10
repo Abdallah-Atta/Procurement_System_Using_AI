@@ -1,0 +1,8 @@
+crewAI
+pydantic
+tavily-python
+scrapegraph_py
+agentops
+streamlit
+python-dotenv
+ollama

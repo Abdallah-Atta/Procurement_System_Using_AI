@@ -1,0 +1,101 @@
+{
+    "products": [
+      {
+        "page_url": "https://www.amazon.eg/-/en/Coffee-Makers/b?ie=UTF8&node=21864088031",
+        "product_title": "Coffee Machines: Buy Online at Best Prices in Egypt",
+        "product_image_url": "https://example.com/coffee-machine.jpg",
+        "product_url": "https://www.amazon.eg/-/en/Coffee-Makers/b?ie=UTF8&node=21864088031",
+        "product_current_price": 463.00,
+        "product_original_price": null,
+        "product_discount_percentage": null,
+        "product_specs": [
+          {
+            "specification_name": "Brand",
+            "specification_value": "SOKANY"
+          },
+          {
+            "specification_name": "Capacity",
+            "specification_value": "500ml"
+          },
+          {
+            "specification_name": "Power",
+            "specification_value": "N/A"
+          }
+        ],
+        "agent_recommendation_rank": 4,
+        "agent_recommendation_notes": [
+          "Affordable price with good ratings.",
+          "Popular choice in Egypt."
+        ]
+      },
+      {
+        "page_url": "https://www.amazon.eg/-/en/Espresso-Machines/b?ie=UTF8&node=21864618031",
+        "product_title": "Espresso Machines: Buy Online at Best Prices in Egypt",
+        "product_image_url": "https://example.com/espresso-machine.jpg",
+        "product_url": "https://www.amazon.eg/-/en/Espresso-Machines/b?ie=UTF8&node=21864618031",
+        "product_current_price": 18399.00,
+        "product_original_price": null,
+        "product_discount_percentage": null,
+        "product_specs": [
+          {
+            "specification_name": "Brand",
+            "specification_value": "De'Longhi"
+          },
+          {
+            "specification_name": "Type",
+            "specification_value": "Espresso Machine"
+          }
+        ],
+        "agent_recommendation_rank": 5,
+        "agent_recommendation_notes": [
+          "High-end model with great reviews."
+        ]
+      },
+      {
+        "page_url": "https://www.amazon.eg/-/en/Turkish-Coffee-Maker/b?ie=UTF8&node=21864618031",
+        "product_title": "Turkish Coffee Maker",
+        "product_image_url": "https://example.com/turkish-coffee-maker.jpg",
+        "product_url": "https://www.amazon.eg/-/en/Turkish-Coffee-Maker/b?ie=UTF8&node=21864618031",
+        "product_current_price": 869.00,
+        "product_original_price": null,
+        "product_discount_percentage": null,
+        "product_specs": [
+          {
+            "specification_name": "Capacity",
+            "specification_value": "4 cups"
+          },
+          {
+            "specification_name": "Power",
+            "specification_value": "600 watts"
+          }
+        ],
+        "agent_recommendation_rank": 3,
+        "agent_recommendation_notes": [
+          "Decent option for Turkish coffee lovers."
+        ]
+      },
+      {
+        "page_url": "https://www.amazon.eg/-/en/Turkish-Coffee-Maker-Automatic/b?ie=UTF8&node=21864618031",
+        "product_title": "Turkish Coffee Maker Automatic",
+        "product_image_url": "https://example.com/turkish-coffee-maker-auto.jpg",
+        "product_url": "https://www.amazon.eg/-/en/Turkish-Coffee-Maker-Automatic/b?ie=UTF8&node=21864618031",
+        "product_current_price": 3999.00,
+        "product_original_price": null,
+        "product_discount_percentage": null,
+        "product_specs": [
+          {
+            "specification_name": "Power",
+            "specification_value": "735 watts"
+          },
+          {
+            "specification_name": "Color",
+            "specification_value": "Red"
+          }
+        ],
+        "agent_recommendation_rank": 2,
+        "agent_recommendation_notes": [
+          "Low rating, but automatic functionality."
+        ]
+      }
+    ]
+  }
