@@ -18,16 +18,16 @@ An intelligent procurement system powered by CrewAI that automates the product s
 ## 📸 GUI Screenshots
 
 ### Empty Form
-![Empty Form](Gui_Imgs\Img_01.png)
+![Empty Form](https://github.com/Abdallah-Atta/Procurement_System_Using_AI/blob/main/Gui_Imgs/Img_01.png)
 
 ### Filled Form
-![Filled Form](Gui_Imgs\Img_02.png)
+![Filled Form](https://github.com/Abdallah-Atta/Procurement_System_Using_AI/blob/main/Gui_Imgs/Img_02.png)
 
 ### Running Workflow
-![Running Workflow](Gui_Imgs\Img_03.png)
+![Running Workflow](https://github.com/Abdallah-Atta/Procurement_System_Using_AI/blob/main/Gui_Imgs/Img_03.png)
 
 ### Workflow Completed
-![Workflow Completed](Gui_Imgs\Img_04.png)
+![Workflow Completed](https://github.com/Abdallah-Atta/Procurement_System_Using_AI/blob/main/Gui_Imgs/Img_04.png)
 
 ## 📂 Project Structure
 
@@ -193,9 +193,9 @@ Fill in the required information:
 ### **3️⃣ View Results**
 
 After submission, the system will:
-1. Generate optimal search queries (saved as ![`step_1_suggested_search_queries.json`](ai-agent-output\step_1_suggested_search_queries.json))
-2. Search across specified e-commerce platforms (saved as ![`step_2_search_results.json`](ai-agent-output\step_2_search_results.json))
-3. Extract detailed product information (saved as ![`step_3_search_results.json`](ai-agent-output\step_3_search_results.json))
-4. Generate a comprehensive procurement report (saved as ![`step_4_procurement_report.html`](ai-agent-output\step_4_procurement_report.html))
+1. Generate optimal search queries (saved as ![`step_1_suggested_search_queries.json`](https://github.com/Abdallah-Atta/Procurement_System_Using_AI/blob/main/ai-agent-output/step_1_suggested_search_queries.json))
+2. Search across specified e-commerce platforms (saved as ![`step_2_search_results.json`](https://github.com/Abdallah-Atta/Procurement_System_Using_AI/blob/main/ai-agent-output/step_2_search_results.json))
+3. Extract detailed product information (saved as ![`step_3_search_results.json`](https://github.com/Abdallah-Atta/Procurement_System_Using_AI/blob/main/ai-agent-output/step_3_search_results.json))
+4. Generate a comprehensive procurement report (saved as ![`step_4_procurement_report.html`](https://github.com/Abdallah-Atta/Procurement_System_Using_AI/blob/main/ai-agent-output/step_4_procurement_report.html))
 
 All output files will be available in the `ai-agent-output` directory.
