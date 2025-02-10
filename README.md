@@ -51,9 +51,6 @@ ai-procurement-system/
 ```
 
 ## 🛠 Installation
-[Previous content remains the same until Installation section]
-
-## 🛠 Installation
 
 ### **1️⃣ Install Ollama**
 
